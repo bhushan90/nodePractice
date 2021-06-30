@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "name": "Bhushan Dhage",
+    "skills": ["Angular", "React Js", "Node Js", "Dot Net Core"]
+  },
+  {
+    "id": 2,
+    "name": "Vishal Ambhore",
+    "skills": ["Angular", "c++", "C", "DotNet"]
+  },
+  {
+    "id": 3,
+    "name": "Ravindra Kauthale",
+    "skills": ["Angular", "React Js", "Node Js"]
+  },
+  { "id": 4, "name": "Bharat Chavhan", "skills": ["Pthon", "C"] },
+  { "id": 5, "name": "Manik Jadhav", "skills": ["Cobol", "Hadoop"] },
+  { "id": 6, "name": "Abhijit Dhage", "skills": ["Angular", "Python", "Java"] },
+  { "id": 7, "name": "Abhijit Dhage", "skills": ["Angular", "Python", "Java"] }
+]
